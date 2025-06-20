@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate designer and developer with 3+ years of experience creating beautiful, functional interfaces. I specialize in React.js, Tailwind CSS, and responsive design principles that deliver exceptional user experiences, and I also have strong knowledge of SQL, Python, DSA, and problem-solving in programming. When I'm not coding, I enjoy exploring new technologies, watching anime, and experimenting with creative side projects. I believe in continuous learning and staying ahead of design trends to deliver innovative solutions to my clients.<br>
+I'm a passionate designer and developer with experience of creating beautiful, functional interfaces. I specialize in React.js, Tailwind CSS, and responsive design principles that deliver exceptional user experiences, and I also have strong knowledge of SQL, Python, DSA, and problem-solving in programming. When I'm not coding, I enjoy exploring new technologies, watching anime, and experimenting with creative side projects. I believe in continuous learning and staying ahead of design trends to deliver innovative solutions to my clients.<br>
 
 
 ## 🌐 Socials:
