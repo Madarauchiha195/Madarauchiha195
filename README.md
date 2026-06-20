@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm an Artificial Intelligence & Machine Learning undergraduate passionate about building intelligent systems, Agentic AI applications, and Generative AI products. My interests lie at the intersection of Machine Learning, Large Language Models (LLMs), Multi-Agent Systems, and Full-Stack AI Engineering.
+I'm an Artificial Intelligence & Machine Learning passionate about building intelligent systems, Agentic AI applications, and Generative AI products. My interests lie at the intersection of Machine Learning, Large Language Models (LLMs), Multi-Agent Systems, and Full-Stack AI Engineering.
 
 I enjoy developing AI-powered solutions that combine advanced reasoning, automation, and real-world problem solving. My work spans Agentic AI workflows, Retrieval-Augmented Generation (RAG), NLP, Computer Vision, MLOps, and scalable AI applications.
 
